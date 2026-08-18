@@ -2,10 +2,6 @@
 
 <h2 align="left">Senior QA Engineer | QA Team Lead |  Playwright Automation & Manual | eCommerce, FinTech & POS Systems </h2>
 
-<p align="left" >
-12+ years of experience delivering high-quality software across Web, Mobile, SaaS, FinTech, POS, and Enterprise platforms.
-</p>
-
 ---
 
 ## About Me

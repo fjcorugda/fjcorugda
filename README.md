@@ -1,10 +1,8 @@
 ﻿# Hi, I'm Febe Joy 👋
 
-<p align="center">
-<strong>Senior QA Engineer • QA Team Lead • Manual & Automation Testing</strong>
-</p>
+<h2 align="left">Senior QA Engineer | QA Team Lead | Manual & Automation Testing</h2>
 
-<p align="center" >
+<p align="left" >
 12+ years of experience delivering high-quality software across Web, Mobile, SaaS, FinTech, POS, and Enterprise platforms.
 </p>
 

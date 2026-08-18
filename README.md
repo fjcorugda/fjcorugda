@@ -1,8 +1,8 @@
 ﻿# Hi, I'm Febe Joy 👋
  
-<h2 align="center">Senior QA Engineer | QA Team Lead |  Playwright Automation & Manual | eCommerce, FinTech & POS Systems</h2>
+<h2 align="left">Senior QA Engineer | QA Team Lead |  Playwright Automation & Manual | eCommerce, FinTech & POS Systems</h2>
 
-<p align="center">
+<p align="left">
 QA Engineer with 12+ years of experience in software quality assurance across Web, Mobile, SaaS, FinTech, POS, eCommerce, and Enterprise platforms.
 
 Experienced in manual and automation testing, with hands-on experience in Playwright, TypeScript, JavaScript, Postman, SQL, Git, CI/CD workflows, and AI-augmented testing. Passionate about building reliable test solutions, improving QA processes, and delivering high-quality software releases.

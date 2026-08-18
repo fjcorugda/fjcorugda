@@ -140,17 +140,6 @@ API testing examples demonstrating REST API validation and data verification.
 
 ---
 
-## 🎓 Education
-
-**Master of Technology Management 2026 — Ongoing**  
-Carlos Hilado Memorial State University
-
-**Bachelor of Science in Information System**  
-Carlos Hilado Memorial State University  
-2009 – 2013
-
----
-
 ## 📚 Currently Learning
 
 - Advanced Playwright Automation

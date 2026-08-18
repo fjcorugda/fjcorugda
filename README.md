@@ -12,205 +12,225 @@ Experienced in manual and automation testing, with hands-on experience in Playwr
 
 ## About Me
 
-I'm a Senior QA Engineer with over 12 years of experience in software quality assurance, specializing in manual and automation testing across web, mobile, SaaS, fintech, and POS platforms.
+- 12+ years of experience in **Software Quality Assurance**
+- Experienced in **Manual & Automation Testing** across web, mobile, SaaS, FinTech, POS, and eCommerce platforms
+- Strong background in:
+  - Playwright
+  - TypeScript / JavaScript
+  - Cypress
+  - Selenium IDE
+  - REST API Testing / Postman
+  - SQL / MySQL / MongoDB
+  - Git & CI/CD Workflows
+  - Linux / Bash
+  - Cross-Browser & Cross-Platform Testing
+  - iOS & Android Testing
+  - AI-Augmented Testing
 
-Throughout my career, I've led QA teams, defined testing strategies, improved QA processes, and partnered with cross-functional teams to deliver reliable software releases. I have hands-on experience in Playwright, API testing, SQL, CI/CD-supported QA workflows, and production release validation.
+- Experienced in:
+  - Test Planning & Test Strategy
+  - Test Case Design & Execution
+  - Functional, Regression & Integration Testing
+  - Exploratory Testing
+  - API & Data Validation
+  - Defect Lifecycle Management
+  - Root Cause Analysis
+  - Production & Release Validation
+  - QA Process Improvement
+  - QA Team Leadership & Mentoring
 
-I'm passionate about continuous learning and currently expanding my automation expertise through Playwright, TypeScript, and AI-assisted testing.
+- Industry experience includes:
+  - SaaS
+  - FinTech & Payment Systems
+  - POS Systems
+  - eCommerce
+  - ERP Systems
+  - Enterprise Web Applications
 
 ---
 
-## 💼 Core Expertise
+## 🛠️ Tools & Technologies
 
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- Integration Testing
-- Exploratory Testing
-- Smoke & Sanity Testing
-- User Acceptance Testing (UAT)
-- API Testing
-- Cross-Browser Testing
-- Cross-Platform Testing
-- Mobile Testing
-- Production Validation
-- Defect Lifecycle Management
-- Root Cause Analysis
-- Test Planning & Test Case Design
-- Agile / Scrum
-- QA Leadership & Mentoring
+| Category | Technologies |
+|---|---|
+| **Automation** | Playwright, Cypress, Selenium IDE |
+| **Languages** | TypeScript, JavaScript, SQL |
+| **API & Data** | Postman, REST API, MySQL, HeidiSQL, MongoDB |
+| **Testing** | Functional, Regression, Integration, Exploratory, UAT, Performance |
+| **Web & Mobile** | Cross-Browser, Cross-Platform, Responsive Web, iOS, Android |
+| **DevOps** | Git, CI/CD, Linux, Bash, OpenSSH, Basic Docker |
+| **Cloud** | AWS S3, AWS EC2 |
+| **QA Tools** | Jira, TestRail, Confluence, JMeter, New Relic |
+| **Platforms** | Shopify, Magento, Adobe Commerce, BigCommerce, WordPress, AEM, Odoo, ERPNext |
+| **Development Tools** | VS Code, Browser Developer Tools |
 
 ---
 
-## 🤖 Automation
+## 🤖 Automation & QA Engineering
 
-- Playwright
-- JavaScript
-- TypeScript
-- Selenium IDE
-- AI-Augmented Testing
-- OpenAI Codex
+My automation experience includes developing and supporting automated testing solutions using:
 
-Currently building automation frameworks using:
+- **Playwright**
+- **TypeScript / JavaScript**
+- **Cypress**
+- **Selenium IDE**
+- **API automation and validation**
+- **CI/CD-supported testing workflows**
+- **AI-Augmented Testing**
+
+Automation practices include:
 
 - Page Object Model (POM)
-- Fixtures
-- Data-Driven Testing
-- Reusable Components
-- HTML Reports
-- CI/CD Integration
+- Reusable test components
+- Test fixtures
+- Data-driven testing
+- Cross-browser testing
+- Automated regression testing
+- Test reporting
+- Screenshot and failure evidence
+- CI/CD integration
 
 ---
 
-## 🛠 Technical Skills
-
-### Testing & QA
-
-- Functional Testing
-- Regression Testing
-- Integration Testing
-- Exploratory Testing
-- API Testing
-- Performance Testing
-- Cross-Browser Testing
-- Cross-Platform Testing
-- SaaS Platform Testing
-- Multi-Tier Web Application Testing
-
-### API & Database
-
-- REST API Testing
-- Postman
-- SQL
-- MySQL
-- HeidiSQL
-- MongoDB
-- API Schema Validation
-- Request & Response Validation
-
-### Programming
-
-- JavaScript
-- TypeScript
-- SQL
-
-### DevOps & Tools
-
-- Git
-- GitHub
-- Linux
-- Bash
-- OpenSSH
-- VS Code
-- CI/CD Workflows
-- Basic Docker
-- Browser Developer Tools
-
-### Platforms
-
-- AWS (S3, EC2)
-- Shopify
-- Adobe Commerce
-- Magento
-- BigCommerce
-- WordPress
-- Adobe Experience Manager
-- Odoo
-- ERPNext
-- POS & Payment Systems
-
-### Project Management
-
-- Jira
-- TestRail
-- Confluence
-- New Relic
-- JMeter
-
----
-
-## 🚀 Featured Projects
+## 🚀 Featured QA Projects
 
 ### 🎭 Playwright Automation Framework
 
-A modern automation testing framework built with Playwright and TypeScript featuring:
+A Playwright + TypeScript automation project demonstrating modern end-to-end testing practices.
+
+**Focus areas:**
 
 - Page Object Model
-- Reusable Components
-- Test Fixtures
-- HTML Reporting
-- Cross-browser Execution
-- Screenshot Capture
-- CI/CD Ready Structure
+- Reusable components
+- Test fixtures
+- Cross-browser testing
+- Automated regression testing
+- Test reporting
+- Screenshot capture
+- CI/CD-ready structure
 
 ---
 
 ### 🤖 AI-Assisted Browser Automation
 
-Automation workflows utilizing AI-assisted tools and browser automation to improve testing efficiency and repetitive task execution.
+A QA automation project exploring AI-assisted browser workflows and UI automation for repetitive testing and data-processing tasks.
+
+**Focus areas:**
+
+- Browser automation
+- UI-based automation
+- AI-assisted workflows
+- Test efficiency
+- Repetitive task automation
 
 ---
 
 ### 📬 API Testing Portfolio
 
-A collection of API testing examples demonstrating:
+API testing examples demonstrating REST API validation and data verification.
 
-- REST API Testing
+**Focus areas:**
+
+- Request / response validation
 - Authentication
-- CRUD Operations
-- Response Validation
-- SQL Data Verification
+- CRUD operations
+- API validation
+- SQL data verification
+- Postman
 
 ---
 
 ## 💼 Professional Experience
 
-**QA Team Lead & Delivery Manager**  
-Commerce Acceptance Solutions (Serino System Inc.)  
-*2023 – 2026*
+### QA Team Lead & Delivery Manager
 
-- Led QA strategy and release readiness for enterprise web applications.
-- Managed QA planning, test strategy, defect lifecycle, and stakeholder communication.
-- Introduced Playwright-based automation initiatives.
-- Mentored QA engineers and improved testing standards.
+**Commerce Acceptance Solutions (Serino System Inc.)**  
+*December 2024 – February 2026*
+
+- Led QA strategy and end-to-end testing for web applications.
+- Owned release readiness and pre-release validation.
+- Managed test planning, test strategy, test cases, and defect lifecycle.
+- Directed cross-browser, cross-platform, and end-to-end testing.
+- Acted as the primary QA contact for product, engineering, and business stakeholders.
+- Mentored QA team members and improved testing standards.
+- Supported automation adoption using Playwright and Selenium-based solutions.
 - Oversaw production releases and post-deployment validation.
 
-**Senior QA Analyst**  
-Above The Fray Design Inc.  
-*2022 – 2023*
+### QA Team Lead
 
-- Designed regression test plans and browser compatibility testing.
-- Supported Magento-to-Shopify migration.
-- Maintained Selenium IDE automation scripts.
+**Commerce Acceptance Solutions (Serino System Inc.)**  
+*March 2023 – December 2024*
 
-**Quality Assurance Team Lead**  
-Stratium Software Group Inc.  
-*2016 – 2021*
+- Led QA activities and coordinated testing across Agile releases.
+- Managed QA planning, execution, defect tracking, and release validation.
+- Collaborated with engineering teams to investigate and resolve defects.
+- Supported improvements in automation and QA processes.
 
-- Led QA activities for POS and enterprise applications.
-- Performed cross-platform testing across Windows, Android, and iOS.
-- Managed production validation and customer issue investigations.
+### Senior QA Analyst
 
----
+**Above The Fray Design Inc.**  
+*January 2022 – March 2023*
 
-## 📚 Currently Learning
+- Designed and executed regression testing across browsers and platforms.
+- Reviewed requirements and provided QA effort estimates.
+- Managed defect investigation and resolution tracking.
+- Maintained Selenium IDE regression automation scripts.
+- Supported Magento-to-Shopify migration testing.
+- Prepared QA training materials.
 
-- Advanced Playwright
-- TypeScript
-- GitHub Actions
-- CI/CD Automation
-- AI-Assisted Testing
-- API Automation
+### Quality Assurance Team Lead
+
+**Stratium Software Group Inc.**  
+*October 2016 – December 2021*
+
+- Led QA testing activities and ensured requirement coverage.
+- Coordinated QA schedules with project managers and engineering teams.
+- Investigated customer-reported issues and managed defect resolution.
+- Supported production deployments and release validation.
+- Performed cross-platform testing across iOS, Android, and Windows-based POS systems.
+- Tested hardware integrations including MSR, Star Printers, JPOS, and OPOS devices.
+
+### Quality Assurance Specialist
+
+**Lanex Corporation**  
+*June 2016 – October 2017*
+
+- Performed cross-platform, regression, integration, and sanity testing.
+- Investigated defects identified during testing and production releases.
+- Executed automation tests and validated defects before production deployment.
+
+### Quality Assurance Specialist
+
+**VI Commerce / A&E Consulting, LLC**  
+*April 2013 – June 2016*
+
+- Performed functional, integration, regression, and system testing.
+- Conducted API testing for Viator, Rezdy, and Bokun integrations.
+- Created and executed test cases using TestRail and Gemini.
+- Coordinated QA activities with project and engineering teams.
 
 ---
 
 ## 🎓 Education
 
-**Master of Technology Management (Ongoing)**  
+**Master of Technology Management 2026 — Ongoing**  
 Carlos Hilado Memorial State University
 
 **Bachelor of Science in Information System**  
-Carlos Hilado Memorial State University
+Carlos Hilado Memorial State University  
+2009 – 2013
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Playwright Automation
+- TypeScript
+- API Automation
+- CI/CD-Supported QA Workflows
+- AI-Augmented Testing
+- Automation Framework Development
+- Continuous QA Process Improvement
 
 ---
 

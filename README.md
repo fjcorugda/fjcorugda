@@ -1,7 +1,7 @@
 ﻿# Hi, I'm Febe Joy 👋
 
-<p align="center" style="font-weight: bold;">
-Senior QA Engineer • QA Team Lead • Manual & Automation Testing
+<p align="center">
+<strong>Senior QA Engineer • QA Team Lead • Manual & Automation Testing</strong>
 </p>
 
 <p align="center" >

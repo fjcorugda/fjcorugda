@@ -53,7 +53,7 @@ Experienced in manual and automation testing, with hands-on experience in Playwr
 
 | Category | Technologies |
 |---|---|
-| **Automation** | Playwright, Cypress, Selenium IDE |
+| **Automation** | Playwright, Selenium IDE |
 | **Languages** | TypeScript, JavaScript, SQL |
 | **API & Data** | Postman, REST API, MySQL, HeidiSQL, MongoDB |
 | **Testing** | Functional, Regression, Integration, Exploratory, UAT, Performance |
